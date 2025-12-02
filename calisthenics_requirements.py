@@ -1,0 +1,11 @@
+gradio==4.44.0
+opencv-python==4.9.0.80
+langchain==0.3.7
+langchain-community==0.3.5
+transformers==4.46.0
+torch==2.5.1
+torchvision==0.20.1
+qwen-vl-utils==0.0.8
+pillow==10.4.0
+numpy==1.26.4
+accelerate==1.1.1
